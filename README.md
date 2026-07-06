@@ -10,10 +10,10 @@ Currently focused on building strong foundations in data science, databases, and
 
 ## 🚀 About Me
 
-- 🔭 Currently learning **Python** and **SQL**
-- 🐘 Working with **PostgreSQL**
+- 🔭 Currently learning **SQL**  and **Data Analysis**
+- 🐘 Working with **PostgreSQL** and **Python**
 - 🗄️ Planning hands-on practice with **SQLite**
-- 📊 Interested in **Data Analysis**, **Data Engineering**, and **Data Mining**
+- 📊 Interested in  **Data Engineering**, and **Data Mining**
 - 🤖 Long-term focus on **Machine Learning**, **Deep Learning**, **NLP**, and **LLMs**
 - 🌱 Future goal: learning **Rust**
 - 💡 Motivated by solving complex problems with data and intelligent systems
@@ -33,10 +33,10 @@ Currently focused on building strong foundations in data science, databases, and
 
 ## 🎯 Learning Roadmap
 
-- 🔄 Python Fundamentals
+- ✅ Python Fundamentals
 - 🔄 SQL with PostgreSQL
-- ⏳ SQLite & Database Practice
-- ⏳ Data Analysis
+- 🔄 SQLite & Database Practice
+- 🔄 Data Analysis
 - ⏳ Data Engineering
 - ⏳ Data Mining
 - ⏳ Machine Learning Algorithms
@@ -48,7 +48,7 @@ Currently focused on building strong foundations in data science, databases, and
 
 ## 📌 Current Focus
 
-- Learning Python fundamentals
+- Learning Python fundamentals ----> ✅Done 
 - Learning SQL with PostgreSQL
 - Practicing database design with SQLite
 - Building strong foundations in data analysis
