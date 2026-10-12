@@ -10,7 +10,7 @@ Currently focused on building strong foundations in data science, databases, and
 
 🚀 About Me
 
-🔭 Currently learning **PostgreSQL (~50% progress)** and **Statistics**
+🔭 Currently learning **PostgreSQL ** and **Statistics**
 
 🐍 Completed **Python (NumPy, Pandas), SQLite** | Working with **PostgreSQL**
 
@@ -38,30 +38,55 @@ Currently focused on building strong foundations in data science, databases, and
 ---
 
 🎯 Learning Roadmap
+
+
 ✅ Python Fundamentals (including NumPy & Pandas)
+
 ✅ SQLite & Database Practice
+
 🔄 SQL with PostgreSQL (~50% completed)
+
 🔄 Statistics for Data Science
+
 🔄 Data Analysis (in progress)
+
 ⏳ Power BI (up next)
+
 ⏳ Data Visualization & Scientific Computing (Seaborn, SciPy)
+
 ⏳ Data Engineering Concepts
+
 ⏳ Data Mining Concepts
+
 👁️ Computer Vision (Main Goal)
+
 ⏳ Machine Learning Algorithms
+
 ⏳ Deep Learning & Neural Networks
+
 ⏳ NLP & Large Language Models
+
 🌱 Rust (Long-term Goal)
+
 ---
 
 📌 Current Focus
+
+
 ✅ Python fundamentals — Done
+
 ✅ NumPy & Pandas — Done
+
 ✅ SQLite — Done
+
 🔄 Learning SQL with PostgreSQL (~50% progress)
+
 🔄 Studying Statistics for data-driven thinking
+
 ⏳ Starting Power BI soon, then Seaborn & SciPy
+
 👁️ Building strong foundations in Data Analysis toward Computer Vision
+
 🤖 Exploring the path toward AI Engineering (ML, Deep Learning, NLP & LLMs)
 
 ---
