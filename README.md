@@ -8,15 +8,15 @@ Currently focused on building strong foundations in data science, databases, and
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
-- 🔭 Currently learning **SQL**  and **Data Analysis**
-- 🐘 Working with **PostgreSQL** and **Python**
-- 🗄️ Planning hands-on practice with **SQLite**
-- 📊 Interested in  **Data Engineering**, and **Data Mining**
-- 🤖 Long-term focus on **Machine Learning**, **Deep Learning**, **NLP**, and **LLMs**
-- 🌱 Future goal: learning **Rust**
-- 💡 Motivated by solving complex problems with data and intelligent systems
+🔭 Currently learning **PostgreSQL (~50% progress)** and **Statistics**
+🐍 Completed **Python (NumPy, Pandas), SQLite** | Working with **PostgreSQL**
+📊 Next steps: **Power BI**, then **Seaborn** and **SciPy**
+👁️ Main focus: **Computer Vision** | Also interested in **NLP, Machine Learning, Deep Learning & LLMs**
+🗄️ Familiar with the concepts of **Data Engineering & Data Mining** and planning to strengthen them in my learning path
+🌱 Future goal: learning **Rust**
+💡 Motivated by solving complex problems with data and intelligent systems
 
 ---
 
